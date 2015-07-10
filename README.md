@@ -1,10 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Rainbird ES5 JavaScript Style Guide() {
 
-# Airbnb JavaScript Style Guide() {
-
-*A mostly reasonable approach to JavaScript*
-
-[For the ES5-only guide click here](es5/).
+*A mostly reasonable approach to JavaScript, forked from the Airbnb standards*
 
 ## Table of Contents
 
